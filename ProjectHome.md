@@ -1,0 +1,1 @@
+Módulo criado ao sistema SISCCOMP para se efetuar registro de colétas no campo e posteriormente exporta-las para o sistema de controle. Este módulo foi desenvolvido em Android.
